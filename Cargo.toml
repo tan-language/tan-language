@@ -1,9 +1,9 @@
 [package]
-name = "tan-lang"
-description = "Provides a namespace for tan-lang.org crates"
-version = "0.6.0"
-license = "MIT OR Apache-2.0"
-repository = "https://github.com/tanlang-org/tan-lang"
+name = "tan-language"
+description = "Provides a namespace for tan-language.org crates"
+version = "0.7.0"
+license = "Apache-2.0"
+repository = "https://github.com/tan-language/tan-language"
 keywords = ["tan", "language", "programming"]
 authors = ["George Moschovitis <gmosx@reizu.org>"]
 edition = "2021"
